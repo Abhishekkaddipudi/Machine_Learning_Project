@@ -8,8 +8,9 @@
 3. [VS Code IDE](https://code.visualstudio.com/download)
 4. [Git CLI](https://git-scm.com/downloads)
 
-```
-Creating conda environment
+
+# Creating conda environment
+
 ```
 conda create -p venv python=3.9.12 -y
 ```
@@ -19,6 +20,7 @@ or
 ```
 conda activate venv
 ```
+# Creating python Virtual environment
 ```
 pip install -r requirements.txt
 ```

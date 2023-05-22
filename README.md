@@ -21,7 +21,7 @@ or
 ```
 conda activate venv
 ```
-# installing required libraries
+# Installing required libraries
 ```
 pip install -r requirements.txt
 ```

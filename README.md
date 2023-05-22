@@ -14,13 +14,14 @@
 ```
 conda create -p venv python=3.9.12 -y
 ```
+```
 conda activate venv/
 ```
 or 
 ```
 conda activate venv
 ```
-# Creating python Virtual environment
+# installing required libraries
 ```
 pip install -r requirements.txt
 ```

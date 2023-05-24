@@ -1,4 +1,3 @@
-import os 
 import sys
 
 class HousingException(Exception):

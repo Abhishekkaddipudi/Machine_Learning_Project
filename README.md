@@ -79,3 +79,8 @@ docker images
 ```
 docker run -p 5000:5000 -e PORT=5000 df75b65f7fa4
 ``` 
+# install ipykernel
+```
+pip install ipykernel
+```
+
